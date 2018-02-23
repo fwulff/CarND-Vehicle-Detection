@@ -138,7 +138,7 @@ for row, colorspace in enumerate(color_spaces):
 ```
 
 
-![png](./output_3_0.png)
+![png](./images/output_3_0.png)
 
 
 
@@ -175,7 +175,7 @@ for row, colorspace in enumerate(color_spaces):
 ```
 
 
-![png](./output_4_0.png)
+![png](./images/output_4_0.png)
 
 
 
@@ -273,35 +273,35 @@ plt.show()
 ```
 
 
-![png](./output_6_0.png)
+![png](./images/output_6_0.png)
 
 
 
-![png](./output_6_1.png)
+![png](./images/output_6_1.png)
 
 
 
-![png](./output_6_2.png)
+![png](./images/output_6_2.png)
 
 
 
-![png](./output_6_3.png)
+![png](./images/output_6_3.png)
 
 
 
-![png](./output_6_4.png)
+![png](./images/output_6_4.png)
 
 
 
-![png](./output_6_5.png)
+![png](./images/output_6_5.png)
 
 
 
-![png](./output_6_6.png)
+![png](./images/output_6_6.png)
 
 
 
-![png](./output_6_7.png)
+![png](./images/output_6_7.png)
 
 
 
